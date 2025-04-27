@@ -13,10 +13,10 @@
 <br>
 <div align="center" style="margin-bottom: 20px;">
     <ul style="list-style-type: none; padding-left: 0;">
-      🔭 I'm currently working on an <strong>E-Commerce website</strong></li>
-       🌱 I'm currently learning <strong>Backend development with Node.js</strong></li>
-        📫 How to reach me: <a href="mailto:peteratef177@gmail.com">peteratef177@gmail.com</a></li>
-        ⚡ Fun fact: I'm a funny person! 😄</li>
+        <li>🔭 I'm currently working on an <strong>E-Commerce website</strong></li>
+        <li>🌱 I'm currently learning <strong>Backend development with Node.js</strong></li>
+        <li>📫 How to reach me: <a href="mailto:peteratef177@gmail.com">peteratef177@gmail.com</a></li>
+        <li>⚡ Fun fact: I'm a funny person! 😄</li>
     </ul>
 </div>
 
@@ -70,11 +70,9 @@
     </a>
 </p>
 
-<div style="margin-top: 20px;">
+<div align="center" style="margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter17710&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="display: block; width: 50%; max-height: 400px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=peter17710" alt="GitHub Streak" style="display: block; width: 50%; max-height: 400px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     <img src="https://github-readme-stats.vercel.app/api?username=peter17710&show_icons=true&locale=en" alt="GitHub Stats" style="display: block; width: 50%; max-height: 400px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
-
-</div>
