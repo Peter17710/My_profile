@@ -13,15 +13,15 @@
 <br>
 <div align="center" style="margin-bottom: 20px;">
     <ul style="list-style-type: none; padding-left: 0;">
-        <li>🔭 I'm currently working on an <strong>E-Commerce website</strong></li>
-        <li>🌱 I'm currently learning <strong>Backend development with Node.js</strong></li>
-        <li>📫 How to reach me: <a href="mailto:peteratef177@gmail.com">peteratef177@gmail.com</a></li>
-        <li>⚡ Fun fact: I'm a funny person! 😄</li>
+      🔭 I'm currently working on an <strong>E-Commerce website</strong></li>
+       🌱 I'm currently learning <strong>Backend development with Node.js</strong></li>
+        📫 How to reach me: <a href="mailto:peteratef177@gmail.com">peteratef177@gmail.com</a></li>
+        ⚡ Fun fact: I'm a funny person! 😄</li>
     </ul>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://linkedin.com/in/peter atef" target="_blank" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="border-radius: 5px;" />
     </a>
@@ -33,8 +33,8 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40" style="border-radius: 5px;"/>
     </a>
