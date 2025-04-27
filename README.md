@@ -71,10 +71,11 @@
 </p>
 
 <div style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter17710&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="display: block; width: 100%; max-height: 300px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peter17710" alt="GitHub Streak" style="display: block; width: 100%; max-height: 300px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    <img src="https://github-readme-stats.vercel.app/api?username=peter17710&show_icons=true&locale=en" alt="GitHub Stats" style="display: block; width: 100%; max-height: 300px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter17710&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="display: block; width: 80%; max-height: 400px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peter17710" alt="GitHub Streak" style="display: block; width: 80%; max-height: 400px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="https://github-readme-stats.vercel.app/api?username=peter17710&show_icons=true&locale=en" alt="GitHub Stats" style="display: block; width: 80%; max-height: 400px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
+
 
 
 
