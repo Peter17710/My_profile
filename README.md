@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e67696f" alt="Coding" width="400" style="border-radius: 8px; margin-bottom: 20px;" />
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="400" style="border-radius: 8px; margin-bottom: 20px;" />
 </div>
 
 <div style="margin-bottom: 20px;">
