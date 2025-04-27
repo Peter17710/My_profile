@@ -9,7 +9,8 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="400" style="border-radius: 8px; margin-bottom: 20px;" />
 </div>
-
+<br>
+<br>
 <div style="margin-bottom: 20px;">
     <ul style="list-style-type: none; padding-left: 0;">
         <li>🔭 I'm currently working on an <strong>E-Commerce website</strong></li>
