@@ -11,7 +11,7 @@
 </div>
 <br>
 <br>
-<div style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20px;">
     <ul style="list-style-type: none; padding-left: 0;">
         <li>🔭 I'm currently working on an <strong>E-Commerce website</strong></li>
         <li>🌱 I'm currently learning <strong>Backend development with Node.js</strong></li>
